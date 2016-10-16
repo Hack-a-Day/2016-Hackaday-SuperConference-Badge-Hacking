@@ -1,6 +1,8 @@
 2016 Hackaday SuperConference Badge Hacking Template
 ====================================================
 
+![2016 SuperCon Badge Front and Back](https://hackadaycom.files.wordpress.com/2016/10/both.jpg)
+
 This is C framework to make hacking [the SuperCon](https://hackaday.io/superconference) badge easy.
 
 There is a 'kernel' running in protected bootloader space which services all of the
@@ -37,3 +39,6 @@ Alternatively you can use the online version, [MPLAB Xpress](https://mplabxpress
 
 Use the "Make and Program Device" button of Xpress to download your compiled .hex file.
 
+## Schematic
+
+![2016 SuperCon Badge schematic](https://hackadaycom.files.wordpress.com/2016/10/schematic-2016-supercon-badge.jpeg)
