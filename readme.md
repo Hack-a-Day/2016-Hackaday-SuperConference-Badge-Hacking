@@ -5,9 +5,9 @@
 
 This is C framework to make hacking [the SuperCon](https://hackaday.io/superconference) badge easy.
 
-There is a 'kernel' running in protected bootloader space which services all of the
-hardware (display scanning, button debounce, etc.). This project contains the
-functions and memory map to utilize the kernel functions.
+[Full documentation for this badge](https://hackaday.io/project/16401-supercon-ii-badge) is up on Hackaday.io. There is a 'kernel' running in protected
+bootloader space which services all of the hardware (display scanning, button debounce, etc.).
+This project contains the functions and memory map to utilize the kernel functions.
 
 View these funcitons and memory mapping in main.c and HaD_badge.h
 
